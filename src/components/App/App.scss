@@ -1,0 +1,6 @@
+.ui.menu {
+  justify-content: space-between;
+ &:after {
+    display: none;
+  }
+}
