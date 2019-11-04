@@ -4,7 +4,10 @@ export const loadState = () => {
     try {
         const serializedState = localStorage.getItem('state');
         if (serializedState === null) {
-            return undefined;
+            return {
+                cards,
+                basket: [],
+            }
         }
         return {
             ...JSON.parse(serializedState),
