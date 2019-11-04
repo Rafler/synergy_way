@@ -1,7 +1,8 @@
 import { ACTION_TYPES } from "./actionTypes";
+import {cards} from '../api/data'
 
 const initialState = {
-  cards: [],
+  cards: [...cards],
   basket: [],
 };
 
