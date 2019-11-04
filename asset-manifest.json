@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/synergy_way/static/css/main.c1cc9065.chunk.css",
-    "main.js": "/synergy_way/static/js/main.68cdceae.chunk.js",
-    "main.js.map": "/synergy_way/static/js/main.68cdceae.chunk.js.map",
+    "main.js": "/synergy_way/static/js/main.a28cd2b2.chunk.js",
+    "main.js.map": "/synergy_way/static/js/main.a28cd2b2.chunk.js.map",
     "runtime-main.js": "/synergy_way/static/js/runtime-main.6305cfd1.js",
     "runtime-main.js.map": "/synergy_way/static/js/runtime-main.6305cfd1.js.map",
     "static/js/2.254d1915.chunk.js": "/synergy_way/static/js/2.254d1915.chunk.js",
     "static/js/2.254d1915.chunk.js.map": "/synergy_way/static/js/2.254d1915.chunk.js.map",
     "index.html": "/synergy_way/index.html",
-    "precache-manifest.8cb6ba357f7709ff56d3c49487e55fbe.js": "/synergy_way/precache-manifest.8cb6ba357f7709ff56d3c49487e55fbe.js",
+    "precache-manifest.6d4859b8e386bc15d7179dbf4b91dfd8.js": "/synergy_way/precache-manifest.6d4859b8e386bc15d7179dbf4b91dfd8.js",
     "service-worker.js": "/synergy_way/service-worker.js",
     "static/css/main.c1cc9065.chunk.css.map": "/synergy_way/static/css/main.c1cc9065.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6305cfd1.js",
     "static/js/2.254d1915.chunk.js",
     "static/css/main.c1cc9065.chunk.css",
-    "static/js/main.68cdceae.chunk.js"
+    "static/js/main.a28cd2b2.chunk.js"
   ]
 }
