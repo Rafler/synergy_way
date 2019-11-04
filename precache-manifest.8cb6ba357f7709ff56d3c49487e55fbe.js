@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c73db1495748a4d08da86399d356b7e",
+    "revision": "10df556af6a6a0ef0fce4ccf62d36fd1",
     "url": "/synergy_way/index.html"
   },
   {
-    "revision": "19ee65c237e05eae6e62",
+    "revision": "f9b00578541abae9a01f",
     "url": "/synergy_way/static/css/main.c1cc9065.chunk.css"
   },
   {
-    "revision": "b86627a0600e761fb239",
-    "url": "/synergy_way/static/js/2.9b7c4751.chunk.js"
+    "revision": "9388574e17d42566661a",
+    "url": "/synergy_way/static/js/2.254d1915.chunk.js"
   },
   {
-    "revision": "19ee65c237e05eae6e62",
-    "url": "/synergy_way/static/js/main.567dfc4c.chunk.js"
+    "revision": "f9b00578541abae9a01f",
+    "url": "/synergy_way/static/js/main.68cdceae.chunk.js"
   },
   {
     "revision": "06171a42bf0324affd31",
